@@ -1,0 +1,22 @@
+    {
+      "lessons": [
+        {
+          "title": "مقدمة في الجبر",
+          "description": "شرح المفاهيم الأساسية في الجبر.",
+          "pdfUrl": "https://example.com/algebra.pdf"
+        },
+        {
+          "title": "أساسيات الهندسة",
+          "description": "استعراض الأشكال الهندسية وخصائصها.",
+          "pdfUrl": "https://example.com/geometry.pdf"
+        }
+      ],
+      "quizzes": [
+        {
+          "title": "اختبار الجبر الأول",
+          "subject": "الجبر",
+          "pdfUrl": "https://example.com/algebra_quiz.pdf"
+        }
+      ]
+    }
+    
