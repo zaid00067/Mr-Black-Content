@@ -1,5 +1,17 @@
-{  "id": "lesson_unique_id_001",
-  "title": "كتاب كيف تصبح غنيا",
-  "description": "اكتب تجربة",
-  "pdfUrl": "https://raw.githubusercontent.com/zaid00067/Mr-Black-Content/main/123abc.pdf"
+{
+  "lessons": [
+    {
+      "id": "lesson_02",
+      "title": "مقدمة في الجبر",
+      "description": "أساسيات علم الجبر.",
+      "pdfUrl": "https://.../lesson1.pdf"
+    },
+    {
+      "id": "lesson_unique_id_001",
+      "title": "كتاب كيف تصبح غنيا ",
+      "description": "اكتب تجربةا",
+      "pdfUrl": "https://raw.githubusercontent.com/zaid00067/Mr-Black-Content/main/123abc.pdf"
+    }
+  ],
+  "quizzes": []
 }
